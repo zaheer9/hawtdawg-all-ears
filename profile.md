@@ -2,3 +2,4 @@
 
 Name
 Age
+Skills - Follow trails
