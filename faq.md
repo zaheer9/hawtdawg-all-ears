@@ -1,2 +1,4 @@
 # FAQ
-How many photos can I post?
+How many photos can I post? 
+
+Where do I list my favorite treats
